@@ -19,7 +19,4 @@ The test data set can be downloaded from my [google drive](https://drive.google.
 You might have to save the data and change the location accordingly.
 This project will not work right out of the bag.
 
-Report of this project is available in [report](/report/) folder.
-
-
-
+Report of this project is available in [report](/report/ECE276A%20Report%201.docx.pdf) folder.
