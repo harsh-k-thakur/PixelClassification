@@ -16,5 +16,8 @@ While the training images for the Recycling Bin Detection can be found at this [
 
 The test data set can be downloaded from my [google drive](https://drive.google.com/drive/folders/16TEr7pheOu617YEZPhgI8h79I_vpS-rP?usp=sharing)
 
+You might have to save the data and change the location accordingly.
+This project will not work right out of the bag.
+
 
 
